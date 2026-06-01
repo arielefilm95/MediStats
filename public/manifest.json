@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "MediStats",
+  "version": "1.0",
+  "description": "Extractor de datos clínicos mediante IA para facilitar el ingreso de prestaciones.",
+  "action": {
+    "default_title": "Abrir MediStats",
+    "default_popup": "index.html"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ]
+}
